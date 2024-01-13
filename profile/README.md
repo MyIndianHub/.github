@@ -31,7 +31,7 @@ Follow these steps to get started with MyIndianHub:
 
 ## Contributing
 
-We welcome contributions from everyone! Please take a moment to review our [Contribution Guidelines](CONTRIBUTING.md) before getting started.
+We welcome contributions from everyone! Please take a moment to review our [Contribution Guidelines]([CONTRIBUTING.md](https://github.com/MyIndianHub/.github/blob/main/CONTRIBUTING.md)) before getting started.
 
 ### How to Contribute
 
@@ -40,11 +40,11 @@ We welcome contributions from everyone! Please take a moment to review our [Cont
 3. Push to your branch: `git push origin feature/my-feature`.
 4. Open a pull request against the `main` branch of the original repository.
 
-For more details, check our [Contribution Guidelines](CONTRIBUTING.md).
+For more details, check our [Contribution Guidelines]([CONTRIBUTING.md](https://github.com/MyIndianHub/.github/blob/main/CONTRIBUTING.md)).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MyIndianHub/.github/blob/main/LICENSE) file for details.
 
 ---
 
